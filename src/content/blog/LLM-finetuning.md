@@ -1,6 +1,6 @@
 ---
 title: "Personalized Story Generation with Fine-Tuned LLMs"
-date: "2025-07-31"
+date: "2024-03-15"
 description: "How we distilled, quantized, and parameter-efficiently fine-tuned an LLM to produce more coherent, creative short stories."
 excerpt: "By combining knowledge distillation, 4-bit quantization, and LoRA-based PEFT on the Writing Prompts dataset, we achieved marked gains in readability, diversity, and narrative consistency."
 categories: ["Machine Learning", "Natural Language Processing"]

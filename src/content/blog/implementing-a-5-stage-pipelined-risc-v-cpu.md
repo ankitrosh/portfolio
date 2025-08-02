@@ -1,6 +1,6 @@
 ---
 title: "Implementing a 5-Stage Pipelined RISC-V CPU: Hazards, Forwarding & PPA Trade-Offs"
-date: "2025-07-31"
+date: "2025-06-28"
 description: "A deep dive into extending a single-cycle RV32I design into a 5-stage pipeline, covering hazard resolution, forwarding techniques, and power-performance-area trade-offs."
 excerpt: "Learn how to pipeline RISC-V instructions, detect and resolve hazards with forwarding and stalling, and analyze the impact on power, performance, and area."
 categories: ["Computer Architecture", "Hardware Design"]

@@ -1,6 +1,6 @@
 ---
 title: "Enhancing CAPTCHA Recognition with CNNs and Image Augmentation"
-date: "2025-04-13"
+date: "2024-02-13"
 description: "How convolutional neural networks and advanced image transformations improve CAPTCHA solving accuracy"
 excerpt: "Applying CNN architecture to interpret CAPTCHAs, with realistic transformations to bolster model robustness."
 categories: ["Machine Learning", "Computer Vision"]

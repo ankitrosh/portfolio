@@ -1,6 +1,6 @@
 ---
 title: "Real-Time Speech Emotion Recognition on Edge Devices with CNNs & MFE Augmentation"
-date: "2025-07-31"
+date: "2025-06-15"
 description: "How we built and deployed a lightweight CNN‐based emotion detector on an Arduino Nano 33 BLE Sense using Mel-filterbank Energy features."
 excerpt: "Leveraging 1D CNNs and on-the-fly MFE preprocessing, we achieved robust on-device emotion classification for five emotional states."
 categories: ["Machine Learning", "Embedded Systems", "Signal Processing"]

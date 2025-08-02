@@ -1,6 +1,6 @@
 ---
 title: "Twitter Spam Detection with NLP & Machine Learning"
-date: "2025-07-31"
+date: "2025-01-30"
 description: "A walkthrough of building a Twitter spam classifier using character-level n-grams, TF-IDF, feature fusion, and linear models."
 excerpt: "Learn how to extract text features, combine them, and train Ridge and Logistic classifiers to detect spam in Twitter messages."
 categories: \["Machine Learning", "Natural Language Processing", "Spam Detection"]

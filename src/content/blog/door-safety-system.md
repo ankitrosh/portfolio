@@ -1,6 +1,6 @@
 ---
 title: "Building a Smart Security Door and Monitoring System with ESP32 & FreeRTOS"
-date: "2025-07-31"
+date: "2025-05-25"
 description: "A deep dive into dual-core FreeRTOS programming, sensor integration, and real-time embedded design for a responsive security system."
 excerpt: "Integrating RFID access control, motion detection, and real-time logging on an ESP32 demonstrates the power of multitasking in IoT security applications."
 categories: ["Embedded Systems", "IoT", "Security"]
