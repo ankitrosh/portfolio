@@ -3,8 +3,8 @@ title: "Maze Solver with Enviro: Randomized Obstacle Navigation"
 date: "2025-03-20"
 description: "A walkthrough of building a maze-solving robot using Enviro, featuring a randomized turn algorithm to avoid loops."
 excerpt: "Learn how we configured a static maze in Enviro and implemented a randomized left/right turn strategy to guarantee eventual maze completion."
-categories: \["Robotics", "Simulation", "Maze Solving"]
-tags: \["Enviro", "Maze Solver", "Robotics", "Randomized Algorithm"]
+categories: ["Robotics", "Simulation", "Maze Solving"]
+tags: ["Enviro", "Maze Solver", "Robotics", "Randomized Algorithm"]
 ---
 
 ---
